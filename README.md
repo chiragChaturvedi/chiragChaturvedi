@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @chiragChaturvedi
-- 👀 I’m interested in Machine learning
+- 👀 I’m interested in Artificial Intelligence
 - 🌱 I’m currently learning Data science
 - 💞️ I’m looking to collaborate on Data science projects
 - 📫 contact me: chiragchaturvedi15@gmail.com
