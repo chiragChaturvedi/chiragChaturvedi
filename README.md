@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @chiragChaturvedi
+- 👋 Hi, I’m Kushagra Chaturvedi
 - 👀 I’m interested in Artificial Intelligence
 - 🌱 I’m currently learning Data science
 - 💞️ I’m looking to collaborate on Data science projects
